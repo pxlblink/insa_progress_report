@@ -1,0 +1,17 @@
+- https://github.com/pathakabhi24/CyberSecurity-Books
+  - https://github.com/pathakabhi24/CyberSecurity-Books/blob/main/Pentesting%20Books/Penetration%20Testing.pdf
+- https://en.wikipedia.org/wiki/Penetration_test (pentesting definition)
+- https://www.geeksforgeeks.org/computer-networks/what-is-ports-in-networking/ (port definition)
+- https://www.stationx.net/nmap-cheat-sheet/
+- https://nmap.org/book/man-port-specification.html (-p-)
+- https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange (color analogy for diffie-hellman key exchange)
+- https://www.cve.org/ (cve database website)
+- https://www.redhat.com/en/topics/security/what-is-cve
+- https://www.eccouncil.org/cybersecurity-exchange/penetration-testing/penetration-testing-phases/ (stages of pentesting)
+- https://docs.rapid7.com/metasploit/modules/ (metasploit module definition)
+- https://docs.metasploit.com/docs/modules.html (explanation for type of modules)
+- https://docs.rapid7.com/metasploit/manage-meterpreter-and-shell-sessions/ (list of meterpreter commands)
+
+- https://thequantuminsider.com/2026/04/06/how-quantum-computing-affects-cryptography/
+- https://en.wikipedia.org/wiki/Integer_factorization_records (quantum computer factorization record)
+- https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later
